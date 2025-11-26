@@ -4,8 +4,16 @@
   bottom: 80px;
   z-index: 999999999;
   position: fixed;
-  transition: visibility 0.3s, transform 0.3s, transform-origin 0.3s, scale 0.3s, opacity 0.3s,
-    bottom 0.3s, top 0.3s, left 0.3s, right 0.3s;
+  transition:
+    visibility 0.3s,
+    transform 0.3s,
+    transform-origin 0.3s,
+    scale 0.3s,
+    opacity 0.3s,
+    bottom 0.3s,
+    top 0.3s,
+    left 0.3s,
+    right 0.3s;
   opacity: 1;
 }
 
@@ -26,8 +34,16 @@
   align-items: flex-end;
   width: max-content;
   opacity: 1;
-  transition: visibility 0.3s, transform 0.3s, transform-origin 0.3s, scale 0.3s, opacity 0.3s,
-    bottom 0.3s, top 0.3s, left 0.3s, right 0.3s;
+  transition:
+    visibility 0.3s,
+    transform 0.3s,
+    transform-origin 0.3s,
+    scale 0.3s,
+    opacity 0.3s,
+    bottom 0.3s,
+    top 0.3s,
+    left 0.3s,
+    right 0.3s;
 }
 
 /* Стили блока верхних кнопок в скрытом состоянии */
@@ -67,8 +83,16 @@
   align-items: center;
   justify-content: flex-end;
   opacity: 1;
-  transition: visibility 0.3s, transform 0.3s, transform-origin 0.3s, scale 0.3s, opacity 0.3s,
-    bottom 0.3s, top 0.3s, left 0.3s, right 0.3s;
+  transition:
+    visibility 0.3s,
+    transform 0.3s,
+    transform-origin 0.3s,
+    scale 0.3s,
+    opacity 0.3s,
+    bottom 0.3s,
+    top 0.3s,
+    left 0.3s,
+    right 0.3s;
 }
 
 /* Стили блока нижних кнопок в скрытом состоянии */
